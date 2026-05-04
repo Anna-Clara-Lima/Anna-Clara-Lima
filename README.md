@@ -1,5 +1,5 @@
 
-#<h1 align="center">Oi 👋, eu sou a Ana Lima</h1>
+#<h1 align="center">Oi 👋, eu sou a Anna Lima</h1>
 
 <p align="center">
 💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,python" />
 </p>
 
----
+
 
 
 
