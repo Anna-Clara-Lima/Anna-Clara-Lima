@@ -1,19 +1,45 @@
 
-##Olá!!
+#<h1 align="center">Oi 👋, eu sou a Ana Lima</h1>
+
+<p align="center">
+💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+🚀 Em busca de crescer na área de TI <br>
+📚 Aprendendo Python, JavaScript e mais...
+</p>
+
+---
+
+## 🌈 Sobre mim
+- 🎓 ADS (faculdade)
+- 💼 Experiência com suporte e TI
+- 📊 Criação de dashboards e automações
+- 🚀 Sonho: trabalhar com tecnologia e crescer na área
+
+---
+
+## 💻 Tecnologias que uso
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
 <div align="center">
-  <a href="https://github.com/Anna-Clara-Lima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaClaraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anna-Clara-Lima&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Clara-Lima&layout=compact&theme=tokyonight"/>
 </div>
- 
- ##
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> 
-  
-  
-##
+
+---
+
+## 🐍 Minhas contribuições
+
+![snake gif](https://github.com/Anna-Clara-Lima/Anna-Clara-Lima/blob/output/github-contribution-grid-snake.svg)
+
+
+
+## 📫 Contato
+- 💼 LinkedIn: 
+- 📧 Email: 
