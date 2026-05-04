@@ -25,21 +25,5 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anna-Clara-Lima&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Clara-Lima&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
-## 🐍 Minhas contribuições
-
-![snake gif](https://github.com/Anna-Clara-Lima/Anna-Clara-Lima/blob/output/github-contribution-grid-snake.svg)
 
 
-
-## 📫 Contato
-- 💼 LinkedIn: 
-- 📧 Email: 
